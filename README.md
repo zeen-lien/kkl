@@ -17,35 +17,26 @@ Repository untuk dokumentasi dan template Kuliah Kerja Lapangan (KKL) 2026
 
 ```
 📦 kkl/
-├── 📄 TEMPLATE_LAPORAN_SIMPLE.md       # Template laporan (15-20 halaman)
-├── 📄 SISTEMATIS_SIMPLE.md             # Sistematis & timeline pengerjaan
-├── 📄 JOBDES_WRITER_SIMPLE.md          # Job description Tim Laporan
-├── 📄 3_JOBDES_DOKUMENTER.md           # Job description Tim Video
-├── 📄 4_STRUKTUR_GOOGLE_DRIVE.md       # Struktur folder Google Drive
-└── 📄 README.md                        # File ini
+├── 📄 JOBDES_WRITER.md          # Job description Tim Writer (Laporan)
+├── 📄 JOBDES_DOKUMENTER.md      # Job description Tim Dokumenter (Video)
+└── 📄 README.md                 # File ini
 ```
 
 ---
 
 ## 🎯 Fitur Utama
 
-### ✅ Template Laporan Simple
-- Struktur laporan yang mudah dipahami
-- Target 15-20 halaman (realistis!)
-- Format sesuai panduan kampus
-- Fokus ke pengalaman & pembelajaran
+### ✅ Job Description Writer (Laporan)
+- Tugas saat kunjungan (apa yang harus dicatat)
+- Tugas setelah KKL (apa yang harus dibuat)
+- Target: Laporan 15-20 halaman
+- Timeline pengerjaan 3 minggu
 
-### ✅ Job Description Lengkap
-- Pembagian tugas yang jelas
-- Timeline 3 minggu
-- Tips & best practices
-- Checklist untuk setiap posisi
-
-### ✅ Struktur Google Drive
-- Folder terorganisir
-- Naming convention
-- Permission management
-- Progress tracking template
+### ✅ Job Description Dokumenter (Video)
+- Tugas per hari (19-21 Januari)
+- Apa yang harus direkam
+- Target: Video 1-3 menit
+- Simple & to the point
 
 ---
 
@@ -54,19 +45,15 @@ Repository untuk dokumentasi dan template Kuliah Kerja Lapangan (KKL) 2026
 ### **Koordinator:** 1 orang
 - Zaini Leon Musthofa Kamal
 
-### **Tim Laporan:** 5 orang
-1. Ketua Tim Laporan
-2. Writer 1 (BAB I & II)
-3. Writer 2 (BAB III)
-4. Writer 3 (BAB IV)
-5. Editor & Designer
+### **Tim Writer (Laporan):** 5 orang
+- Bertugas membuat laporan KKL (15-20 halaman)
+- Catat semua info saat kunjungan
+- Buat laporan setelah KKL
 
-### **Tim Video:** 5 orang
-1. Ketua Tim Video
-2. Videographer 1
-3. Videographer 2
-4. Editor Video
-5. Narrator
+### **Tim Dokumenter (Video):** 5 orang
+- Bertugas membuat video dokumentasi (1-3 menit)
+- Rekam kegiatan per hari
+- Edit video simple & clean
 
 ---
 
@@ -104,20 +91,14 @@ git clone https://github.com/zeen-lien/kkl.git
 cd kkl
 ```
 
-### 2. Baca File Panduan
-- Mulai dari `SISTEMATIS_SIMPLE.md` untuk overview
-- Baca `TEMPLATE_LAPORAN_SIMPLE.md` untuk struktur laporan
-- Baca jobdes sesuai posisi masing-masing
+### 2. Baca Job Description
+- **Tim Writer:** Baca `JOBDES_WRITER.md`
+- **Tim Dokumenter:** Baca `JOBDES_DOKUMENTER.md`
 
-### 3. Setup Google Drive
-- Akses link Google Drive
-- Ikuti struktur folder di `4_STRUKTUR_GOOGLE_DRIVE.md`
-- Upload bahan KKL ke folder yang sesuai
-
-### 4. Mulai Pengerjaan
-- Follow timeline di `SISTEMATIS_SIMPLE.md`
-- Koordinasi dengan tim via WhatsApp
-- Update progress di Google Sheets
+### 3. Siap Eksekusi!
+- Follow jobdes masing-masing
+- Koordinasi via WhatsApp
+- Upload hasil ke Google Drive
 
 ---
 
@@ -132,24 +113,17 @@ cd kkl
 
 ## 💡 Tips Sukses
 
-### Untuk Semua Anggota:
-- 📝 Mulai kerja segera setelah KKL
-- 💬 Komunikasi aktif di grup
-- 📊 Update progress rutin
-- 🤝 Bantu anggota yang kesulitan
-- ⏰ Submit tepat waktu
+### Untuk Tim Writer:
+- 📝 Catat detail saat kunjungan
+- 📸 Foto minimal 10 foto
+- 📋 Pakai bahasa simple
+- ⏰ Kerjakan setelah KKL (jangan nunda!)
 
-### Untuk Tim Laporan:
-- Pakai bahasa simple & mudah dipahami
-- Fokus ke pengalaman & pembelajaran
-- Jangan terlalu teknis!
-- Quality over quantity
-
-### Untuk Tim Video:
-- Shooting sebanyak mungkin
-- Backup footage setiap hari
-- Editing simple tapi profesional
-- Durasi 5-10 menit
+### Untuk Tim Dokumenter:
+- 🎥 Rekam landscape (horizontal)
+- 📱 Charge HP & bawa powerbank
+- 💾 Backup video setiap hari
+- ✂️ Edit simple (1-3 menit cukup!)
 
 ---
 
