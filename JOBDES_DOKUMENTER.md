@@ -80,6 +80,111 @@
 
 ---
 
+## 🎙️ SCRIPT NARASI VIDEO
+
+### **OPENING (5-10 detik):**
+
+**Pilihan 1 (Simple):**
+```
+"Assalamualaikum warahmatullahi wabarakatuh.
+Kuliah Kerja Lapangan Teknik Informatika
+UNISNU Jepara 2026"
+```
+
+**Pilihan 2 (Lebih Detail):**
+```
+"Assalamualaikum warahmatullahi wabarakatuh.
+Dokumentasi Kuliah Kerja Lapangan
+Program Studi Teknik Informatika
+Fakultas Sains dan Teknologi
+Universitas Islam Nahdlatul Ulama Jepara
+19-21 Januari 2026"
+```
+
+---
+
+### **ISI VIDEO (40-60 detik):**
+
+**Narasi untuk Bagian IDX (20-30 detik):**
+```
+"Pada tanggal 19 Januari 2026, 
+kami mengunjungi IDX Bursa Efek Surabaya.
+
+Di sini kami mempelajari tentang sistem perdagangan saham,
+teknologi matching engine,
+dan peluang karir di bidang financial technology.
+
+Pengalaman ini memberikan wawasan berharga
+tentang penerapan teknologi informasi
+di industri pasar modal."
+```
+
+**Narasi untuk Bagian UNISMA (10-15 detik):**
+```
+"Hari kedua, kami berkunjung ke UNISMA Malang
+untuk berbagi pengalaman
+dan memperluas networking dengan mahasiswa kampus lain."
+```
+
+**Narasi untuk Kegiatan Lainnya (10-15 detik):**
+```
+"Selain kegiatan akademik,
+kami juga melakukan wisata edukasi
+dan kegiatan kebersamaan
+yang mempererat tali silaturahmi."
+```
+
+---
+
+### **CLOSING (10-15 detik):**
+
+**Pilihan 1 (Simple):**
+```
+"Terima kasih kepada:
+- Dosen Pembimbing Lapangan
+- IDX Bursa Efek Surabaya
+- UNISMA Malang
+- Dan semua pihak yang telah mendukung.
+
+Wassalamualaikum warahmatullahi wabarakatuh."
+```
+
+**Pilihan 2 (Lebih Personal):**
+```
+"Kegiatan KKL ini memberikan pengalaman berharga
+bagi kami untuk memahami dunia industri.
+
+Terima kasih kepada semua pihak
+yang telah mendukung kegiatan ini.
+
+Wassalamualaikum warahmatullahi wabarakatuh."
+```
+
+---
+
+## 📝 CARA PAKAI NARASI:
+
+### **Opsi 1: Voice Over**
+- Rekam suara sesuai script di atas
+- Pakai mic yang bagus (atau HP)
+- Rekam di tempat tenang
+- Tambahkan ke video saat editing
+
+### **Opsi 2: Text Only**
+- Gak perlu voice over
+- Cukup tambah text di video
+- Pakai font yang jelas & mudah dibaca
+- Durasi text: 3-5 detik per kalimat
+
+### **Opsi 3: Tanpa Narasi**
+- Cukup musik background
+- Tambah text lokasi & tanggal
+- Let the video speak for itself!
+
+**Pilih yang paling gampang!** 🎥
+
+---
+
 ## 📱 ALAT YANG DIBUTUHKAN
 
 - [ ] HP/Kamera (charge penuh!)

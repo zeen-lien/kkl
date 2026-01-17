@@ -27,6 +27,54 @@
 - [ ] **Catat pertanyaan & jawaban saat tanya jawab**
 - [ ] **Catat waktu kegiatan** (mulai & selesai)
 
+---
+
+#### 2. TANYA PERTANYAAN SAAT SESI TANYA JAWAB
+
+**Pertanyaan yang Bisa Ditanyakan (Pilih 2-3):**
+
+**Tentang Teknologi:**
+1. "Pak/Bu, sistem matching engine apa yang digunakan oleh IDX saat ini?"
+2. "Berapa kecepatan rata-rata proses matching dari order masuk sampai eksekusi?"
+3. "Teknologi apa saja yang digunakan untuk mendukung sistem perdagangan saham?"
+4. "Bagaimana sistem menjaga keamanan data transaksi investor?"
+
+**Tentang Sistem Trading:**
+5. "Bagaimana cara kerja matching engine dalam mencocokkan order beli dan jual?"
+6. "Apa yang terjadi jika ada banyak order dengan harga yang sama?"
+7. "Berapa kapasitas maksimal transaksi yang bisa diproses per hari?"
+8. "Bagaimana sistem menangani kondisi market yang sangat volatile?"
+
+**Tentang Karir:**
+9. "Skill apa yang paling dibutuhkan untuk bekerja di bidang teknologi pasar modal?"
+10. "Apakah IDX membuka program magang untuk mahasiswa Teknik Informatika?"
+11. "Sertifikasi apa yang direkomendasikan untuk mahasiswa yang ingin berkarir di fintech?"
+12. "Bagaimana prospek karir di bidang financial technology ke depannya?"
+
+**Tentang Infrastruktur:**
+13. "Bagaimana sistem backup dan disaster recovery yang diterapkan di IDX?"
+14. "Berapa uptime percentage sistem trading dalam setahun terakhir?"
+15. "Apakah IDX menggunakan cloud computing atau on-premise?"
+
+**Tips Bertanya:**
+- Pilih 2-3 pertanyaan yang paling menarik buat lo
+- Tunggu giliran saat sesi tanya jawab
+- Perkenalkan diri dulu: "Perkenalkan, saya [Nama] dari Teknik Informatika"
+- Catat jawabannya dengan detail!
+
+---
+
+#### 3. KUMPULKAN MATERI
+
+- [ ] **Minta/foto slide presentasi** dari narasumber
+- [ ] **Ambil handout/brosur** yang dibagikan
+- [ ] **Foto materi penting** (jika tidak bisa copy)
+- [ ] **Minta kontak narasumber** (untuk follow-up)
+
+---
+
+#### 4. CATAT KEGIATAN LAINNYA
+
 **Di UNISMA Malang (20 Jan):**
 - [ ] **Catat nama narasumber**
 - [ ] **Catat materi yang disampaikan** (singkat aja)
@@ -38,16 +86,7 @@
 
 ---
 
-#### 2. KUMPULKAN MATERI
-
-- [ ] **Minta/foto slide presentasi** dari narasumber
-- [ ] **Ambil handout/brosur** yang dibagikan
-- [ ] **Foto materi penting** (jika tidak bisa copy)
-- [ ] **Minta kontak narasumber** (untuk follow-up)
-
----
-
-#### 3. FOTO DOKUMENTASI
+#### 5. FOTO DOKUMENTASI
 
 **Foto yang Harus Ada (Minimal 10 foto):**
 - [ ] Foto pembekalan (14 Jan)
