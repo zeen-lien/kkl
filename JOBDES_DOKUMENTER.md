@@ -110,13 +110,14 @@ Universitas Islam Nahdlatul Ulama Jepara
 "Pada tanggal 19 Januari 2026, 
 kami mengunjungi IDX Bursa Efek Surabaya.
 
-Di sini kami mempelajari tentang sistem perdagangan saham,
-teknologi matching engine,
-dan peluang karir di bidang financial technology.
+Di sini kami mempelajari tentang
+struktur pasar modal Indonesia,
+produk investasi seperti saham, obligasi, dan reksadana,
+manfaat dan risiko berinvestasi,
+serta tips untuk investor pemula.
 
 Pengalaman ini memberikan wawasan berharga
-tentang penerapan teknologi informasi
-di industri pasar modal."
+tentang dunia investasi dan literasi keuangan."
 ```
 
 **Narasi untuk Bagian UNISMA (10-15 detik):**

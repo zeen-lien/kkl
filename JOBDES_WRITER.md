@@ -20,10 +20,13 @@
 - [ ] **Catat judul materi presentasi**
 - [ ] **Catat poin-poin penting dari presentasi:**
   - Tentang IDX (sejarah, peran, fungsi)
-  - Sistem perdagangan saham
-  - Teknologi yang digunakan
-  - Matching engine (cara kerja simple)
-  - Peluang karir
+  - Struktur pasar modal (OJK, BEI, KSEI, ID Clear)
+  - Produk pasar modal (saham, obligasi, reksadana, ETF)
+  - Manfaat berinvestasi (RUPS, capital gain, dividen, dll)
+  - Risiko investasi (delisting, market risk, pailit)
+  - Tips investor pemula (paham, punya, pantau)
+  - Profil risiko investor (konservatif - agresif)
+  - Kesalahan umum investor pemula
 - [ ] **Catat pertanyaan & jawaban saat tanya jawab**
 - [ ] **Catat waktu kegiatan** (mulai & selesai)
 
@@ -33,28 +36,30 @@
 
 **Pertanyaan yang Bisa Ditanyakan (Pilih 2-3):**
 
-**Tentang Teknologi:**
-1. "Pak/Bu, sistem matching engine apa yang digunakan oleh IDX saat ini?"
-2. "Berapa kecepatan rata-rata proses matching dari order masuk sampai eksekusi?"
-3. "Teknologi apa saja yang digunakan untuk mendukung sistem perdagangan saham?"
-4. "Bagaimana sistem menjaga keamanan data transaksi investor?"
+**Tentang Struktur Pasar Modal:**
+1. "Pak/Bu, bagaimana koordinasi antara OJK, BEI, KSEI, dan ID Clear dalam ekosistem pasar modal?"
+2. "Apa perbedaan fungsi antara KSEI dan ID Clear?"
+3. "Bagaimana peran teknologi informasi dalam mendukung keempat lembaga tersebut?"
 
-**Tentang Sistem Trading:**
-5. "Bagaimana cara kerja matching engine dalam mencocokkan order beli dan jual?"
-6. "Apa yang terjadi jika ada banyak order dengan harga yang sama?"
-7. "Berapa kapasitas maksimal transaksi yang bisa diproses per hari?"
-8. "Bagaimana sistem menangani kondisi market yang sangat volatile?"
+**Tentang Produk Investasi:**
+4. "Apa perbedaan utama antara reksadana dan ETF dari sisi teknologi perdagangan?"
+5. "Bagaimana sistem membedakan transaksi saham lokal dan global?"
+6. "Untuk obligasi korporasi dan pemerintah, apakah sistemnya berbeda?"
 
-**Tentang Karir:**
-9. "Skill apa yang paling dibutuhkan untuk bekerja di bidang teknologi pasar modal?"
-10. "Apakah IDX membuka program magang untuk mahasiswa Teknik Informatika?"
-11. "Sertifikasi apa yang direkomendasikan untuk mahasiswa yang ingin berkarir di fintech?"
-12. "Bagaimana prospek karir di bidang financial technology ke depannya?"
+**Tentang Investasi & Risiko:**
+7. "Dari data historis, berapa persen investor pemula yang mengalami kerugian karena kesalahan umum?"
+8. "Bagaimana sistem IDX membantu investor memahami profil risiko mereka?"
+9. "Apa saja tools atau fitur yang disediakan IDX untuk investor pemula?"
 
-**Tentang Infrastruktur:**
-13. "Bagaimana sistem backup dan disaster recovery yang diterapkan di IDX?"
-14. "Berapa uptime percentage sistem trading dalam setahun terakhir?"
-15. "Apakah IDX menggunakan cloud computing atau on-premise?"
+**Tentang Teknologi & Sistem:**
+10. "Bagaimana sistem menangani kondisi market yang sangat volatile seperti saat inflasi tinggi?"
+11. "Apa yang dimaksud dengan JCI return heat map dan bagaimana cara membacanya?"
+12. "Bagaimana teknologi membantu investor dalam mengakses informasi real-time?"
+
+**Tentang Karir & Edukasi:**
+13. "Skill apa yang paling dibutuhkan untuk bekerja di bidang teknologi pasar modal?"
+14. "Apakah IDX membuka program magang untuk mahasiswa Teknik Informatika?"
+15. "Bagaimana IDX mengedukasi masyarakat tentang budgeting rules dan literasi keuangan?"
 
 **Tips Bertanya:**
 - Pilih 2-3 pertanyaan yang paling menarik buat lo
@@ -131,12 +136,15 @@
 **B. KKL di IDX (2-3 halaman) - FOKUS!:**
 - [ ] Tulis perjalanan & kedatangan
 - [ ] Tulis nama narasumber & judul materi
-- [ ] Tulis ringkasan materi (4-5 poin):
-  - Pengenalan IDX
-  - Sistem perdagangan saham
-  - Teknologi yang digunakan
-  - Matching engine (simple!)
-  - Peluang karir
+- [ ] Tulis ringkasan materi (6-8 poin):
+  - Pengenalan IDX & struktur pasar modal Indonesia
+  - Peran OJK, BEI, KSEI, dan ID Clear
+  - Produk investasi (saham, obligasi, reksadana, ETF)
+  - Manfaat berinvestasi di pasar modal
+  - Risiko investasi yang perlu dipahami
+  - Tips untuk investor pemula
+  - Profil risiko investor
+  - Kesalahan umum investor pemula
 - [ ] Tulis 2-3 pertanyaan & jawaban menarik
 - [ ] Tulis penutup (foto bersama, selesai jam berapa)
 - [ ] Tempel foto-foto di IDX
@@ -160,35 +168,47 @@
 
 **A. Analisis KKL di IDX (3-4 halaman) - FOKUS!:**
 
-**1. Tentang IDX (0.5 halaman):**
-- [ ] Tulis apa itu IDX
-- [ ] Tulis peran & fungsi IDX
-- [ ] Tulis sejarah singkat
+**1. Struktur Pasar Modal Indonesia (1 halaman):**
+- [ ] Tulis tentang ekosistem pasar modal
+- [ ] Tulis peran OJK sebagai regulator
+- [ ] Tulis peran BEI sebagai penyelenggara bursa
+- [ ] Tulis peran KSEI (penyimpanan & penyelesaian)
+- [ ] Tulis peran ID Clear (kliring & penjaminan)
+- [ ] Tulis bagaimana koordinasi antar lembaga
 
-**2. Sistem Perdagangan Saham (1-1.5 halaman):**
-- [ ] Tulis bagaimana sistem trading bekerja (simple!)
-- [ ] Tulis komponen sistem (matching engine, order book, dll)
-- [ ] Tulis cara kerja (6-7 step sederhana)
+**2. Produk Investasi di Pasar Modal (1 halaman):**
+- [ ] Tulis tentang saham (capital gain, dividen, RUPS)
+- [ ] Tulis tentang obligasi (korporasi & pemerintah)
+- [ ] Tulis tentang reksadana & ETF
+- [ ] Tulis perbedaan masing-masing produk
+- [ ] Tulis contoh sederhana
 
-**3. Teknologi Informasi di IDX (1-1.5 halaman):**
-- [ ] Tulis infrastruktur IT (server, network, data center)
-- [ ] Tulis software yang digunakan
-- [ ] Tulis sistem keamanan
+**3. Manfaat & Risiko Investasi (0.5-1 halaman):**
+- [ ] Tulis manfaat berinvestasi:
+  - Ikut RUPS
+  - Capital gain & dividen
+  - Akses informasi
+  - Warisan
+  - Pajak/membantu pembangunan
+- [ ] Tulis risiko investasi:
+  - Delisting
+  - Market risk
+  - Risiko pailit
 
-**4. Matching Engine (0.5-1 halaman) - SIMPLE!:**
-- [ ] Tulis apa itu matching engine
-- [ ] Tulis fungsinya
-- [ ] Tulis prinsip kerja (price priority, time priority)
-- [ ] Kasih contoh sederhana
+**4. Profil Risiko & Tips Investor (0.5-1 halaman):**
+- [ ] Tulis tentang profil risiko:
+  - Sangat konservatif
+  - Konservatif
+  - Moderat
+  - Agresif
+- [ ] Tulis tips investor pemula (paham, punya, pantau)
+- [ ] Tulis kesalahan umum investor pemula
 
-**5. Peluang Karir (0.5 halaman):**
-- [ ] Tulis posisi yang tersedia
-- [ ] Tulis skill yang dibutuhkan
-
-**6. Pembelajaran yang Didapat (0.5 halaman):**
-- [ ] Tulis penerapan teori ke praktik
-- [ ] Tulis pentingnya keamanan & kecepatan
-- [ ] Tulis peluang karir di fintech
+**5. Pembelajaran yang Didapat (0.5 halaman):**
+- [ ] Tulis tentang pentingnya literasi keuangan
+- [ ] Tulis tentang budgeting rules
+- [ ] Tulis tentang pengaruh inflasi & economic issues
+- [ ] Tulis tentang perbedaan harga saham lokal & global
 
 **B. Analisis KKL di UNISMA (0.5-1 halaman) - SINGKAT!:**
 - [ ] Tulis tentang prodi TI UNISMA (singkat)
